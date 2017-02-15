@@ -9,4 +9,4 @@ This Xamarin-App allows you to:
 
 You can use this app to control a Bluetooth Car for example.
 
-<a href="/" [attr.target]="target">Failing 4</a>
+<a href="/" [attr.target]="_blank">Failing 4</a>
